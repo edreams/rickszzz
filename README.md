@@ -1,4 +1,12 @@
-# rickszzz
+############################################################
+Next Steps in Data Analysis with R
+
+Revealing the logic and strengths of R for working with data
+Rick Scavetta
+https://learning.oreilly.com/live-training/courses/next-steps-in-data-analysis-with-r/0636920318736/
+https://pastebin.com/EdPYHgU6
+https://github.com/Scavetta/OReilly_Next_Steps_in_Data_Analysis
+############################################################
 # Case study: Part 1 (60 minutes)
 
 
